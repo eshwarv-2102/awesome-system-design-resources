@@ -98,7 +98,7 @@ Jenkins + Helm + K8s
 
    
 
-   | Area                   | Tool/Practice                        |
+   | Area                | Tool/Practice                     
 | ---------------------- | ------------------------------------ |
 | **CI/CD**              | GitHub Actions + Docker + Helm + K8s |
 | **Monitoring**         | Prometheus + Grafana                 |

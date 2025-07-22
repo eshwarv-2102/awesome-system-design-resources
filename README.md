@@ -95,6 +95,8 @@ Jenkins + Helm + K8s
 
 5. DevOps & Operational Excellence
 
+   
+
    | Area                   | Tool/Practice                        |
 | ---------------------- | ------------------------------------ |
 | **CI/CD**              | GitHub Actions + Docker + Helm + K8s |

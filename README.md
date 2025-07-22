@@ -97,15 +97,13 @@ Jenkins + Helm + K8s
 5. DevOps & Operational Excellence
 
    
-
-   | Area                | Tool/Practice                     
-| ---------------------- | ------------------------------------ |
-| **CI/CD**              | GitHub Actions + Docker + Helm + K8s |
-| **Monitoring**         | Prometheus + Grafana                 |
-| **Logging**            | EFK/ELK Stack                        |
-| **Secrets Mgmt**       | HashiCorp Vault / K8s Secrets        |
-| **Deployments**        | Canary / Blue-Green                  |
-| **Security**           | HTTPS, OAuth2, IAM Policies          |
-| **Auto-scaling**       | HPA on CPU/RPS                       |
-| **Storage Durability** | S3 with versioning + lifecycle       |
-| **Disaster Recovery**  | Backup to Glacier or cold storage    |
+ Area	Tool           Practice
+   CI/CD	            GitHub Actions + Docker + Helm + K8s
+  Monitoring	        Prometheus + Grafana
+  Logging	           EFK/ELK Stack
+  Secrets Mgmt	      HashiCorp Vault / K8s Secrets
+   Deployments	      Canary / Blue-Green
+  Security	          HTTPS, OAuth2, IAM Policies
+ Auto-scaling	       HPA on CPU/RPS
+ Storage Durability  	S3 with versioning + lifecycle
+Disaster Recovery    	Backup to Glacier or cold storage

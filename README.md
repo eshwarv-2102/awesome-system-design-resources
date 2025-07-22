@@ -24,7 +24,8 @@ Delete/rename files
 
 3.  High-Level Architecture
 
-   
+   <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/07257662-330b-431b-9952-23d1dcb7355a" />
+
    
  Architecture Layers:
 Client Layer
